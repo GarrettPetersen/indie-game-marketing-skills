@@ -32,6 +32,8 @@ For each beat, record:
   social wording, video title, description, and calls to action as needed;
 - current trailer or clip, screenshots, human-made key art, logo, and press-kit
   downloads;
+- localized game access, store destinations, website pages, and text-bearing
+  assets for the priority audiences, especially Japanese;
 - an updated official site and downloadable press kit with stable public URLs;
 - playable build, demo, or keys when the beat depends on access;
 - target press and creators chosen for demonstrated genre fit;

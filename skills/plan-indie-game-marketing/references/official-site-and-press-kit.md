@@ -26,12 +26,21 @@ The site may point to a Steam demo, public itch.io demo, or access-controlled
 browser playtest. Label each destination and its availability accurately; do
 not expose a private build merely to make the press kit feel complete.
 
-Every public marketing sentence, image description, metadata description,
-biography, quote, and call to action must be supplied or approved as exact
-human-written text. The agent may build and maintain the site around it but may
-not fill copy gaps with generated prose. The lifecycle skill's narrow exception
-permits factual privacy, consent, and telemetry boilerplate, subject to its
-inventory, approval, and accuracy requirements.
+Every source-language marketing sentence, image description, metadata
+description, biography, quote, and call to action must be supplied or approved
+as exact human-written text. The agent may build and maintain the site around
+it but may not fill copy gaps with generated prose. The agent may faithfully
+machine-translate that approved source under
+[early-localization.md](early-localization.md), without adding claims or new
+locale-specific copy. The lifecycle skill's narrow exception also permits
+factual privacy, consent, and telemetry boilerplate, subject to its inventory,
+approval, and accuracy requirements.
+
+Publish the official site and essential press-kit facts in the priority Steam
+languages when practical, especially Japanese. Give each locale a stable URL
+that media can link directly, and package localized text-bearing assets with
+unambiguous language codes. Do not make Japanese press reconstruct the game
+from an English-only site after Japanese discovery has already happened.
 
 ## Press-kit contents
 

@@ -11,7 +11,12 @@ can technically be approved. Before publishing, require:
 - authentic gameplay footage showing the game quickly;
 - varied, current screenshots that communicate play rather than menus alone;
 - human-authored descriptions and calls to action;
-- accurate tags, features, languages, platforms, and content disclosures; and
+- machine-localized versions of the exact human-authored source page in the
+  priority languages, with Japanese included by default for a commercial Steam
+  game unless the project has a reason to exclude it;
+- matching in-game localization for every Steam language-support box that will
+  be checked, plus a working plan to keep changing strings synchronized;
+- accurate tags, features, platforms, and content disclosures; and
 - a real destination for every public link.
 
 Publishing earlier creates more opportunities to collect wishlists, but a weak
@@ -20,6 +25,15 @@ page with a real announcement beat: a trailer, human-written press release,
 targeted press outreach, notable showcase, or existing audience activation.
 Do not publish the page quietly and assume it can be announced for the first
 time later.
+
+Do not postpone all localization until after the announcement. Early localized
+store pages can attract regional wishlists and coverage during the first and
+least repeatable visibility beat. Steam treats store-page and in-game
+localization separately, and says its language-based visibility uses in-game
+support. Translate both, and never check `Interface`, `Subtitles`, or `Full
+Audio` merely because the store description exists in that language. Read
+[early-localization.md](early-localization.md) for the workflow and Japanese
+priority.
 
 Use `audit-steam-store-page` for a detailed page review and
 `review-game-trailer` for the video.
@@ -95,6 +109,7 @@ plan for support and measurement during the event.
 
 - [Steamworks: Demos](https://partner.steamgames.com/doc/store/application/demos)
 - [Steamworks: Wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
+- [Steamworks: Localization and Languages](https://partner.steamgames.com/doc/store/localization)
 - [Steamworks: Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
 - [HTMAG: When should I post my Steam coming-soon page?](https://howtomarketagame.com/2025/03/10/when-should-i-post-my-steam-coming-soon-page/)
 - [HTMAG: Promote before Steam Next Fest](https://howtomarketagame.com/2024/11/13/how-do-you-promote-a-game-before-steam-next-fest/)

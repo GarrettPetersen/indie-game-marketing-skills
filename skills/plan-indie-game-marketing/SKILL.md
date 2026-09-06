@@ -1,6 +1,6 @@
 ---
 name: plan-indie-game-marketing
-description: Plan and maintain an evidence-based marketing path for a small Steam game from genre selection and trailer-first vertical slice through pricing, official website, press kit, itch.io or browser playtest, Steam page, demo, telemetry, festivals, creator outreach, launch, and post-launch. Use for whole-project roadmaps, next-action decisions, milestone sequencing, and marketing calendars; use a focused audit skill for a standalone store-page or trailer review.
+description: Plan and maintain an evidence-based marketing path for a small Steam game from genre selection and trailer-first vertical slice through pricing, early localization, official website, press kit, itch.io or browser playtest, Steam page, demo, telemetry, festivals, creator outreach, launch, and post-launch. Use for whole-project roadmaps, next-action decisions, milestone sequencing, and marketing calendars; use a focused audit skill for a standalone store-page or trailer review.
 ---
 
 # Plan Indie Game Marketing
@@ -10,10 +10,10 @@ promise, and proof required to sell the game before expanding production.
 
 ## Human-authorship invariant
 
-Never draft, rewrite, translate, or "polish" audience-facing text. This includes
-store descriptions, emails, subject lines, press releases, social posts,
-captions, trailer title cards, voiceover, calls to action, application answers,
-and public biographies.
+Never draft, rewrite, or "polish" original audience-facing marketing text. This
+includes store descriptions, emails, subject lines, press releases, social
+posts, captions, trailer title cards, voiceover, calls to action, application
+answers, and public biographies.
 
 When outward-facing wording is needed:
 
@@ -27,6 +27,16 @@ The agent may organize human-approved text, transcribe human speech, and make
 mechanical substitutions in a human-written template, such as a verified
 creator name or previously played game. Reusing one good human-written message
 is preferable to producing many synthetic personalized messages.
+
+Localization exception: the agent may faithfully translate exact,
+human-authored source text into other languages for the game, store page,
+website, subtitles, metadata, and assets containing text. It must not introduce
+new claims or rewrite the campaign for a locale. Track source revision,
+translation provenance, glossary terms, and human-review status internally;
+validate variables, layout, fonts, and meaning; and preserve human corrections
+when translations are regenerated. Read
+[references/early-localization.md](references/early-localization.md) before
+planning or auditing language support.
 
 Do not generate capsule art or other key art. Ask the user to create it or
 commission a human artist. It is acceptable to inspect, crop, resize, export,
@@ -67,6 +77,9 @@ exercise, but record the commercial consequences of earlier choices honestly.
   ladder, read [references/pricing.md](references/pricing.md).
 - From vertical slice through the coming-soon page, demo, and Next Fest, read
   [references/store-demo-next-fest.md](references/store-demo-next-fest.md).
+- When selecting languages, internationalizing the game, translating public
+  pages, or checking Steam language claims, read
+  [references/early-localization.md](references/early-localization.md).
 - For the official website and downloadable media package, read
   [references/official-site-and-press-kit.md](references/official-site-and-press-kit.md).
 - For a browser playtest and opt-in diagnostics, read

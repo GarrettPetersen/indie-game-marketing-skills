@@ -96,6 +96,12 @@ heuristic as settled fact.
 - [Store and Platform Traffic Reporting](https://partner.steamgames.com/doc/marketing/traffic_reporting)
   — identifies the Steamworks traffic-breakdown reports used to measure store
   and platform impressions, visits, and click-through rate.
+- [Localization and Languages](https://partner.steamgames.com/doc/store/localization)
+  — distinguishes store-page translation from in-game language support, says
+  Steam language visibility is based on in-game settings, and recommends using
+  localized pages and regional wishlists to guide investment.
+- [Languages Supported on Steam](https://partner.steamgames.com/doc/store/localization/languages)
+  — current platform and game-support language lists and codes.
 
 Steamworks documentation is authoritative for Steam requirements but changes
 over time. Retrieve the current page before asserting sizes, deadlines,
@@ -119,6 +125,20 @@ runway are operating recommendations, not Steam eligibility rules. Valve does
 not publish thresholds for New & Trending or an entitlement to a launch client
 message; practitioner wishlist figures must remain clearly labelled as
 anecdotal.
+
+## Firsthand project evidence
+
+- [Indie Freaks coverage of Marque & Reprisal](https://x.com/i/status/2082949368362238267)
+  — project case evidence that launching with Japanese game and store-page
+  localization can make an indie game legible to large Japanese discovery
+  accounts during the announcement beat. This single result supports early
+  Japanese localization as an operating strategy, not a coverage guarantee.
+
+The repository permits machine translation of exact human-authored source text
+so priority languages can be present at page launch, then routes high-impact
+strings to native editors as resources allow. This is a deliberate exception
+to the no-AI-copy rule: translation may preserve existing meaning but may not
+invent marketing claims or a locale-specific campaign.
 
 ## Additional pricing perspectives
 

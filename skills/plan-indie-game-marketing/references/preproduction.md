@@ -10,6 +10,12 @@ time and cash, team strengths, target platform, plausible price range, and the
 maximum tolerable scope. A hobby or art project may knowingly ignore market
 demand; do not disguise that choice as a commercial forecast.
 
+Choose the page-launch language set while architecture is still cheap to
+change. Include Japanese by default for a commercial Steam project unless there
+is a concrete reason not to support it, and read
+[early-localization.md](early-localization.md) before content volume makes
+externalizing strings, font coverage, and layout expensive.
+
 Record an initial price hypothesis for scope and revenue planning, then revisit
 it after representative players have used the vertical slice. Read
 [pricing.md](pricing.md) before recommending a price.
@@ -132,6 +138,8 @@ Proceed when the slice can demonstrate:
 - the chosen visual identity;
 - a beginning, escalation, and payoff;
 - enough visual or systemic variety for distinct screenshots and trailer beats;
+- a runnable machine-localized build in the priority page-launch languages,
+  with representative CJK layout and fonts when Japanese is included;
 - a credible production path within the budget; and
 - interest from outside players who were not coached through the experience.
 

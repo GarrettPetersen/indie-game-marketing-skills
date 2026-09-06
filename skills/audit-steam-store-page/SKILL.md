@@ -10,12 +10,18 @@ understand the play, trust the production, and choose to wishlist or buy.
 
 ## Human-authorship invariant
 
-Never draft, rewrite, translate, or polish public store text. Ask the developer
-for the exact short description, long description, headings, image alt text,
-captions, announcements, and calls to action. Preserve it verbatim. If wording
-is inaccurate, unsupported, confusing, prohibited, or grammatically broken,
-explain the issue and ask the developer to revise it; do not replace it with
-agent-written marketing prose.
+Never draft, rewrite, or polish original public store text. Ask the developer
+for the exact source-language short description, long description, headings,
+image alt text, captions, announcements, and calls to action. Preserve it
+verbatim. If wording is inaccurate, unsupported, confusing, prohibited, or
+grammatically broken, explain the issue and ask the developer to revise it; do
+not replace it with agent-written marketing prose.
+
+The agent may faithfully machine-translate approved source text for early
+localization. It must preserve the claims and voice, introduce no new marketing
+idea, validate meaning and formatting, record that the translation still needs
+human review, and retain later native-speaker corrections. Machine translation
+is an exception for localization, not permission to originate copy.
 
 Never generate capsule art or key art. Require human-made or human-commissioned
 art. The agent may audit, crop, resize, export, or mechanically assemble
@@ -52,9 +58,12 @@ a feature matters. Quote the answer back for confirmation. Do not convert rough
 answers into a polished paragraph. The developer may deliberately choose the
 rougher wording because it sounds human.
 
-Human translation or human review is required for localized marketing text.
-The agent may track coverage, detect missing strings, and integrate supplied
-translations, but may not author them.
+Do not block a coming-soon page on complete professional localization. An
+AI-assisted first pass of exact human-authored copy may launch in priority
+languages, especially Japanese, then be edited by a native localization service
+later. The audit must still flag mistranslation, terminology, layout, font, and
+unreviewed high-visibility text as risks rather than pretending machine output
+has been professionally localized.
 
 ## Output
 

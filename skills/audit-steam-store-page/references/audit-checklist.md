@@ -60,8 +60,21 @@
 
 ## Languages, accessibility, and platforms
 
-- Store-language claims match the build for interface, subtitles, and audio.
-- Every localized asset containing text has the required human translation.
+- The page launched with priority-language versions rather than saving all
+  localization for a later beat; Japanese is present unless deliberately
+  excluded for a documented project reason.
+- Store-page and in-game localization are audited separately. A translated
+  store page does not justify checking in-game `Interface`, `Subtitles`, or
+  `Full Audio` support.
+- Every checked in-game language exists in the intended release build and has
+  working fonts, layout, input where needed, fallback behavior, and string
+  coverage.
+- Machine-localized text is a faithful translation of approved human-authored
+  source copy, not newly generated marketing copy. Translation provenance,
+  source revision, glossary, and human-review status are recorded internally.
+- Critical Japanese text, names, mechanics, calls to action, variables,
+  line-breaks, image text, and search-facing title are spot-checked before the
+  page goes live; professional editing can continue afterward.
 - System requirements and controller/platform claims have been tested.
 - Accessibility statements describe implemented behavior, not intentions.
 
@@ -80,6 +93,6 @@
 - [Steamworks graphical asset rules](https://partner.steamgames.com/doc/store/assets/rules)
 - [Steamworks demos](https://partner.steamgames.com/doc/store/application/demos)
 - [Steamworks wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
+- [Steamworks localization and languages](https://partner.steamgames.com/doc/store/localization)
 - [BiteMe Games Steam-page guide](https://www.youtube.com/watch?v=cYvV_RLwKJ8)
 - [How To Market A Game Steam-page checklist](https://howtomarketagame.com/wp-content/uploads/2020/03/SteamPageChecklistv1.pdf)
-
