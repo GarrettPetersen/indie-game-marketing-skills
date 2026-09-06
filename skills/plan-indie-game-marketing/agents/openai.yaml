@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Indie Game Marketing"
+  short_description: "Plan a Steam game from concept through launch"
+  default_prompt: "Use $plan-indie-game-marketing to build an evidence-based marketing and development roadmap for my game."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Steam Store Page"
+  short_description: "Audit Steam positioning, assets, and readiness"
+  default_prompt: "Use $audit-steam-store-page to audit my Steam page and identify the highest-impact fixes."

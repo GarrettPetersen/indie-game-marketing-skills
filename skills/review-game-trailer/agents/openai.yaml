@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Game Trailer"
+  short_description: "Review a gameplay trailer shot by shot"
+  default_prompt: "Use $review-game-trailer to review my trailer for clarity, pacing, authenticity, and Steam readiness."
