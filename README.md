@@ -18,9 +18,10 @@ rather than allowed to pass quietly.
 - `review-game-trailer`: plan or review gameplay trailers and map their visual
   promises back to the build.
 
-The lifecycle planner also covers an official game site with a downloadable
-press kit, an itch.io demo, and a browser playtest build whose optional
-diagnostics feed a privacy-conscious incident database.
+The lifecycle planner also covers base and regional pricing, discount strategy,
+Steam's Personal Calendar and launch visibility, an official game site with a
+downloadable press kit, an itch.io demo, and a browser playtest build whose
+optional diagnostics feed a privacy-conscious incident database.
 
 ## Human-authorship policy
 

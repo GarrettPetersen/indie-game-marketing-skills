@@ -10,6 +10,10 @@ time and cash, team strengths, target platform, plausible price range, and the
 maximum tolerable scope. A hobby or art project may knowingly ignore market
 demand; do not disguise that choice as a commercial forecast.
 
+Record an initial price hypothesis for scope and revenue planning, then revisit
+it after representative players have used the vertical slice. Read
+[pricing.md](pricing.md) before recommending a price.
+
 ## 2. Choose the genre before production
 
 Research the current market rather than relying on the genres the developer

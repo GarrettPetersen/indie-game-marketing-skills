@@ -13,6 +13,15 @@ rules directly in Steamworks. Use a safe internal content lock and leave room
 for platform rejection, packaging, localization, controller, save, cloud,
 achievement, and clean-machine testing.
 
+Before setting the base price or launch discount, read
+[pricing.md](pricing.md). Price is part of the launch positioning and revenue
+plan, not a clerical field to fill in at the end.
+
+Before fixing or revealing the release date, read
+[steam-launch-visibility.md](steam-launch-visibility.md). Preserve enough runway
+for the Personal Calendar and the release-date beat, and treat New & Trending
+or client-message featuring as earned outcomes rather than promised placements.
+
 ## Coordinated launch
 
 Prepare one truthful set of human-authored messages for the store, community,

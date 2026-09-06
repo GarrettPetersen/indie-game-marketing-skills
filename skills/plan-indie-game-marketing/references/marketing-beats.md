@@ -37,6 +37,8 @@ For each beat, record:
 - target press and creators chosen for demonstrated genre fit;
 - platform events, notifications, festivals, and storefront updates that can
   reinforce the same moment;
+- the release-date and Personal Calendar runway, plus any evidence-based request
+  for Steam featuring that the beat justifies;
 - tracking links and metrics; and
 - an owner, publication sequence, embargo if any, and follow-up date.
 
@@ -69,6 +71,12 @@ Likewise, give a release-date announcement its own evidence: a strong new
 trailer, polished build, clear date, and press package. Next Fest should have a
 tested demo and a surrounding push rather than being the first moment anyone
 outside the team sees the game.
+
+The date reveal also starts a finite Steam launch runway. Publish the concrete
+date at least one month ahead and prefer roughly eight weeks when the build is
+stable enough to make that commitment. Read
+[steam-launch-visibility.md](steam-launch-visibility.md) before spending the
+beat or asking Valve about launch featuring.
 
 Spacing alone is not the goal. A weak game update does not become important by
 waiting. Use the time between beats to improve the build, grow the audience,

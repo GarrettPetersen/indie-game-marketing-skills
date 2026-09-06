@@ -1,6 +1,6 @@
 ---
 name: plan-indie-game-marketing
-description: Plan and maintain an evidence-based marketing path for a small Steam game from genre selection and trailer-first vertical slice through official website, press kit, itch.io or browser playtest, Steam page, demo, telemetry, festivals, creator outreach, launch, and post-launch. Use for whole-project roadmaps, next-action decisions, milestone sequencing, and marketing calendars; use a focused audit skill for a standalone store-page or trailer review.
+description: Plan and maintain an evidence-based marketing path for a small Steam game from genre selection and trailer-first vertical slice through pricing, official website, press kit, itch.io or browser playtest, Steam page, demo, telemetry, festivals, creator outreach, launch, and post-launch. Use for whole-project roadmaps, next-action decisions, milestone sequencing, and marketing calendars; use a focused audit skill for a standalone store-page or trailer review.
 ---
 
 # Plan Indie Game Marketing
@@ -63,6 +63,8 @@ exercise, but record the commercial consequences of earlier choices honestly.
 
 - Before production or at concept selection, read
   [references/preproduction.md](references/preproduction.md).
+- When choosing a base price, regional prices, launch discount, or discount
+  ladder, read [references/pricing.md](references/pricing.md).
 - From vertical slice through the coming-soon page, demo, and Next Fest, read
   [references/store-demo-next-fest.md](references/store-demo-next-fest.md).
 - For the official website and downloadable media package, read
@@ -73,6 +75,9 @@ exercise, but record the commercial consequences of earlier choices honestly.
   [references/marketing-beats.md](references/marketing-beats.md).
 - For outside testing, festivals, press, or creators, read
   [references/playtesting-festivals-outreach.md](references/playtesting-festivals-outreach.md).
+- When choosing or announcing a release date, preparing the launch push, or
+  considering a request for Steam featuring, read
+  [references/steam-launch-visibility.md](references/steam-launch-visibility.md).
 - For release readiness and the period after launch, read
   [references/launch-and-postlaunch.md](references/launch-and-postlaunch.md).
 

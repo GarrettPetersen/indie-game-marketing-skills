@@ -11,6 +11,9 @@ reproduce their wording or substitute for their complete work.
   — capsule, copy, trailer, screenshot, social, and localization review areas.
 - [A Comprehensive Steam Demo Checklist](https://www.youtube.com/watch?v=k9IixsdNP_g)
   — gameplay, onboarding, feel, audio, settings, and marketing readiness.
+- [How to Price Your Indie Game (And Not Regret It Later)](https://www.gamesinprogress.com/indie-game-developers/biteme-games/how-to-price-your-indie-game-and-not-regret-it-later)
+  — practitioner guidance on quality, expectations, underpricing, platform
+  economics, and discounting.
 - [Ultimate Indie Gamedev Genre Tierlist](https://www.youtube.com/watch?v=Yg8wig1LTtE)
   — genre and production-risk discussion for small developers.
 - [Small games win big, here's how to make them](https://www.youtube.com/watch?v=8Kr5TruT-YU)
@@ -51,10 +54,22 @@ judgment and case evidence, not platform rules.
 - [60 Marketing Mistakes](https://howtomarketagame.com/wp-content/uploads/2023/05/Zukowski_60MistakesEbookV1.pdf)
   — includes the failure mode of quietly publishing a coming-soon page instead
   of treating the game announcement as a coordinated press beat, and recommends
-  making reusable capsule layers and logos easy for creators to download.
+  making reusable capsule layers and logos easy for creators to download; it
+  also identifies underpricing and premature deep discounting as avoidable
+  commercial mistakes.
 - [What Steam's big demo update means for your marketing strategy](https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/)
   — spacing announcement and demo beats, with exceptions for unusually strong
   coordinated showcases.
+- [How the Steam Personal Calendar affects your launch](https://howtomarketagame.com/2026/06/25/how-the-steam-personal-calendar-affects-your-launch/)
+  — early practitioner observations supporting a stable two-month runway and
+  explicit warning that suggested thresholds and optimization tactics remain
+  speculative.
+- [What is Wishlist Velocity and is it a better indicator of success?](https://howtomarketagame.com/2024/06/04/what-is-wishlist-velocity-and-is-it-a-better-indicator-of-success/)
+  — practitioner interpretation of launch momentum, New & Trending, and Steam
+  client pop-up consideration; its numerical thresholds are anecdotal.
+- [Killing the myths behind Steam's visibility](https://howtomarketagame.com/2023/09/04/killing-the-myths-behind-steams-visibility/)
+  — practitioner distinctions among paid Steam placements, launch revenue,
+  localization, and curated featuring.
 
 These sources mix observation, survey data, case studies, and author opinion.
 Record which kind supports a recommendation rather than presenting every
@@ -69,6 +84,18 @@ heuristic as settled fact.
 - [Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
 - [User Reviews](https://partner.steamgames.com/doc/store/reviews)
 - [Get user reviews](https://partner.steamgames.com/doc/store/getreviews)
+- [Pricing](https://partner.steamgames.com/doc/store/pricing)
+- [Release Dates](https://partner.steamgames.com/doc/store/release_dates)
+- [Visibility on Steam](https://partner.steamgames.com/doc/marketing/visibility)
+- [Discounting](https://partner.steamgames.com/doc/marketing/discounts)
+- [Contacting Valve / Steam](https://partner.steamgames.com/doc/help/contact)
+- [Personal Calendar announcement](https://steamcommunity.com/games/593110/announcements/detail/507342099205587495)
+- [Advance Access](https://partner.steamgames.com/doc/store/advancedaccess)
+  — includes Valve's statement that it contacts eligible titles about a full
+  release `Now Available` Marketing Message.
+- [Store and Platform Traffic Reporting](https://partner.steamgames.com/doc/marketing/traffic_reporting)
+  — identifies the Steamworks traffic-breakdown reports used to measure store
+  and platform impressions, visits, and click-through rate.
 
 Steamworks documentation is authoritative for Steam requirements but changes
 over time. Retrieve the current page before asserting sizes, deadlines,
@@ -78,6 +105,35 @@ Steam review volume and text are useful opportunity-research inputs, but they
 do not directly report unit sales. Review acquisition source, off-topic
 activity, recency, and the actual causes of dissatisfaction must be considered
 before treating a Mixed game as evidence of an addressable market gap.
+
+Valve describes purchases and play as visibility signals and prominent store
+placement as reflecting player spending and time; it does not publish a simple
+revenue-only ranking formula. Pricing guidance must distinguish Valve's stated
+rules from practitioner inferences about the feedback between price, revenue,
+popularity, and added visibility.
+
+Valve documents the Personal Calendar's eight-week horizon, recommendation
+inputs, and daily retraining, plus release-date sorting and the two-week date
+lock. The repository's one-month exact-date minimum and preferred eight-week
+runway are operating recommendations, not Steam eligibility rules. Valve does
+not publish thresholds for New & Trending or an entitlement to a launch client
+message; practitioner wishlist figures must remain clearly labelled as
+anecdotal.
+
+## Additional pricing perspectives
+
+- [Tom Francis: Price is a solved problem](https://www.pentadact.com/)
+  — practitioner method of asking representative people what they expect to
+  pay and treating excessive price as a risk to reception and word of mouth.
+- [GameDiscoverCo: Are Steam game prices dropping?](https://newsletter.gamediscover.co/p/are-steam-game-prices-dropping-and)
+  — recent observations of successful-game price distributions and the strong
+  value competition around `$10–$15`, with genre and pedigree exceptions.
+
+These perspectives disagree in emphasis with a simple underpricing rule. The
+skill uses `$7.99` and `$14.99` as starting hypotheses, then requires comparable
+games and a non-player test of the visible store promise before presenting them
+as recommendations. Hidden content is not counted as pre-purchase perceived
+value merely because it exists.
 
 ## itch.io documentation
 
