@@ -15,6 +15,8 @@ rather than allowed to pass quietly.
 - `plan-indie-game-marketing`: build and maintain the end-to-end roadmap.
 - `audit-steam-store-page`: audit positioning, capsules, media, tags,
   localization, and demo presentation.
+- `optimize-steam-tags`: build an accurate ordered tag profile around the
+  players of the right similar games.
 - `review-game-trailer`: plan or review gameplay trailers and map their visual
   promises back to the build.
 
@@ -44,6 +46,7 @@ cd /absolute/path/to/game
 mkdir -p .agents/skills
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/plan-indie-game-marketing .agents/skills/plan-indie-game-marketing
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/audit-steam-store-page .agents/skills/audit-steam-store-page
+ln -s /absolute/path/to/indie-game-marketing-skills/skills/optimize-steam-tags .agents/skills/optimize-steam-tags
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/review-game-trailer .agents/skills/review-game-trailer
 ```
 
@@ -62,6 +65,7 @@ skills directory:
 mkdir -p ~/.codex/skills
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/plan-indie-game-marketing ~/.codex/skills/plan-indie-game-marketing
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/audit-steam-store-page ~/.codex/skills/audit-steam-store-page
+ln -s /absolute/path/to/indie-game-marketing-skills/skills/optimize-steam-tags ~/.codex/skills/optimize-steam-tags
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/review-game-trailer ~/.codex/skills/review-game-trailer
 ```
 
@@ -84,7 +88,9 @@ Mention a skill explicitly when you want a particular workflow:
   action, pricing decision, localization plan, demo strategy, festivals,
   creator outreach, or launch preparation;
 - `$audit-steam-store-page` for a publish-readiness or conversion audit of an
-  upcoming or live Steam page; and
+  upcoming or live Steam page;
+- `$optimize-steam-tags` for tag ordering, comparable-game research, Tag Wizard
+  diagnosis, or fixing the public similar-game neighborhood; and
 - `$review-game-trailer` for a trailer concept, shot plan, timecoded review, or
   revision plan using authentic gameplay.
 

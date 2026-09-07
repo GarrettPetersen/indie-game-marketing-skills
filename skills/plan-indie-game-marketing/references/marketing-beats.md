@@ -94,9 +94,17 @@ proof for later outreach, without exaggerating what the outlet said.
 After the beat, record what actually moved. Use that evidence to select
 channels and assets for the next one.
 
+Use Steam UTM links for external campaigns. Keep one small, consistent naming
+scheme for source, medium, campaign, and content so a press release, creator
+batch, festival, social post, or video can be compared without reconstructing
+the link later. Do not create a heavyweight analytics project: preserve the
+link and baseline, then record visits, wishlists, and purchases reported for
+the beat.
+
 ## Sources
 
 - [HTMAG: 60 Marketing Mistakes](https://howtomarketagame.com/wp-content/uploads/2023/05/Zukowski_60MistakesEbookV1.pdf)
 - [HTMAG: What Steam's big demo update means for marketing](https://howtomarketagame.com/2024/07/31/what-steams-big-demo-update-means-for-your-marketing-strategy/)
 - [HTMAG: Games that used momentum for Next Fest](https://howtomarketagame.com/2026/07/14/games-that-used-momentum-for-steam-next-fest-success/)
 - [HTMAG: ZERO Sievert case study](https://howtomarketagame.com/2023/01/18/how-a-pixel-art-shooter-achieved-a-million-dollar-launch-the-zero-sievert-story/)
+- [Steamworks: UTM Analytics](https://partner.steamgames.com/doc/marketing/utm_analytics)

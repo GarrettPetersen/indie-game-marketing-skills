@@ -36,7 +36,9 @@ Audio` merely because the store description exists in that language. Read
 priority.
 
 Use `audit-steam-store-page` for a detailed page review and
-`review-game-trailer` for the video.
+`review-game-trailer` for the video. Use `optimize-steam-tags` to verify that
+the ordered tag profile places the game among credible similar titles whose
+players are the intended audience.
 
 ## Demo as a product and a beat
 
@@ -92,6 +94,23 @@ required for Steam Next Fest eligibility.
 Steam currently permits one Next Fest appearance per title. Confirm current
 eligibility and dates in Steamworks.
 
+Do not enter Next Fest before the game is substantially finished. For this
+decision, that means:
+
+- the complete core loop and the game's sale-defining systems are implemented;
+- the demo is representative of the intended release experience rather than a
+  prototype held together for the festival;
+- art direction, controls, onboarding, performance, and stability are strong
+  enough that broad public play will reinforce rather than obscure the game's
+  promise; and
+- the remaining work is bounded completion, balance, content, localization,
+  compatibility, and polish—not a redesign of what the game is.
+
+Outside playtesting should already have demonstrated that players understand
+the game, enjoy the core loop, and want to continue. Next Fest can reveal bugs
+and tuning needs, but it is too scarce and too public to serve as the first real
+test of whether the game works.
+
 Default for a first-time or operationally inexperienced developer: choose the
 later suitable Next Fest, release and test the demo beforehand, build an
 existing wishlist base, then use the festival as a culmination. A compressed
@@ -104,6 +123,14 @@ Build backward from press preview, trailer pulls, store/build review, and event
 start. Add several business days for rejection and resubmission. Enter with a
 stable demo, current first trailer, accurate tags, tested install flow, and a
 plan for support and measurement during the event.
+
+Do not launch immediately after Next Fest. Preserve a meaningful post-festival
+runway to absorb feedback, repair defects, follow up with creators and press,
+let new wishlists accumulate, prepare the release-date and launch beats, and
+finish without a festival-driven crunch. Choose the interval from the actual
+remaining work and marketing calendar rather than applying a universal number
+of weeks, but reject a date that leaves no real time to benefit from the
+festival's audience.
 
 ## Sources
 

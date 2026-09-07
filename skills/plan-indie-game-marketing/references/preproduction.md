@@ -20,6 +20,13 @@ Record an initial price hypothesis for scope and revenue planning, then revisit
 it after representative players have used the vertical slice. Read
 [pricing.md](pricing.md) before recommending a price.
 
+Before committing publicly to the game name, check Steam and other intended
+storefronts, ordinary web search results, suitable domains, social handles, and
+obvious trademark conflicts. Prefer a name players can find and the developer
+can use consistently. This is a one-time collision check, not a requirement to
+build a large studio brand or a substitute for legal advice when a real
+trademark risk appears.
+
 ## 2. Choose the genre before production
 
 Research the current market rather than relying on the genres the developer

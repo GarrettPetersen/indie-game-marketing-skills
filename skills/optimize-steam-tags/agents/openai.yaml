@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize Steam Tags"
+  short_description: "Build the right similar-game neighborhood"
+  default_prompt: "Use $optimize-steam-tags to build an accurate tag profile aimed at the right comparable-game audience."

@@ -57,6 +57,14 @@ response handling. Scale only when the process works. A stable full build can
 give creators more to show; a public demo removes key friction. Choose based on
 the campaign goal and the build's readiness, not a universal rule.
 
+Treat keys as credentials. Verify an unsolicited requester through a public
+contact route controlled by the claimed creator or outlet; do not trust the
+incoming display name alone. Prefer Curator Connect when the intended recipient
+is available there. Issue keys in small, labelled batches and record the
+recipient, package, issue date, and status. Use Steam Playtest rather than
+press keys for ordinary external testing, and never publish unused keys in a
+public document or repository.
+
 Press releases, pitches, biographies, application answers, and social posts
 must also come from human-provided exact text. The agent can assemble press-kit
 files, validate facts and links, and identify missing answers.
@@ -70,3 +78,6 @@ explicit authorization immediately before the external action.
 - [BiteMe Games: The basics of marketing your indie game](https://www.gamesinprogress.com/indie-game-developers/biteme-games/the-basics-of-marketing-your-indie-game)
 - [How To Market A Game festival directory](https://howtomarketagame.com/festivals/)
 - [How To Market Your Indie Game: A 10 Step Plan](https://howtomarketagame.com/2021/07/12/how-to-market-your-indie-game-a-10-step-plan/)
+- [Steamworks: Curators and Curator Connect](https://partner.steamgames.com/doc/marketing/curators)
+- [Steamworks: Steam Keys](https://partner.steamgames.com/doc/features/keys)
+- [Steamworks: Steam Playtest](https://partner.steamgames.com/doc/features/playtest)

@@ -52,11 +52,18 @@
 
 ## Tags and discoverability
 
+- Treat the Tag Wizard similar-titles list as a central audience diagnostic,
+  not a decorative checklist result.
+- Identify the players of the intended anchor games and verify that the actual
+  core loop, structure, and expectations make them plausible customers.
 - Put accurate subgenre, core mechanic, structure, and theme tags first.
+- Make the top five a coherent description and order all of the first 15
+  deliberately; use up to 20 accurate tags for similarity and browse surfaces.
 - Inspect the resulting "More Like This" neighborhood.
 - Avoid elevating broad tags such as `Indie` above useful gameplay identity.
 - Do not hide an accurate polarizing genre tag merely to broaden appeal.
 - Do not add inaccurate tags to qualify for a festival.
+- Use `optimize-steam-tags` for the full comparison and ordering workflow.
 
 ## Languages, accessibility, and platforms
 
@@ -94,5 +101,6 @@
 - [Steamworks demos](https://partner.steamgames.com/doc/store/application/demos)
 - [Steamworks wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
 - [Steamworks localization and languages](https://partner.steamgames.com/doc/store/localization)
+- [Steamworks tags](https://partner.steamgames.com/doc/store/tags)
 - [BiteMe Games Steam-page guide](https://www.youtube.com/watch?v=cYvV_RLwKJ8)
 - [How To Market A Game Steam-page checklist](https://howtomarketagame.com/wp-content/uploads/2020/03/SteamPageChecklistv1.pdf)

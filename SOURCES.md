@@ -51,6 +51,9 @@ judgment and case evidence, not platform rules.
   momentum launch.
 - [Steam page checklist](https://howtomarketagame.com/wp-content/uploads/2020/03/SteamPageChecklistv1.pdf)
   — gameplay-first media and subgenre-first tags.
+- [Steam 101: How to tag your game](https://howtomarketagame.com/2020/11/12/steam-101-how-to-tag-your-game/)
+  — practitioner guidance treating Steam's recommendation widgets and `More
+  Like This` neighborhood as the purpose of a coherent tag profile.
 - [60 Marketing Mistakes](https://howtomarketagame.com/wp-content/uploads/2023/05/Zukowski_60MistakesEbookV1.pdf)
   — includes the failure mode of quietly publishing a coming-soon page instead
   of treating the game announcement as a coordinated press beat, and recommends
@@ -70,6 +73,14 @@ judgment and case evidence, not platform rules.
 - [Killing the myths behind Steam's visibility](https://howtomarketagame.com/2023/09/04/killing-the-myths-behind-steams-visibility/)
   — practitioner distinctions among paid Steam placements, launch revenue,
   localization, and curated featuring.
+- [Marketing benchmark timeline](https://howtomarketagame.com/benchmarks/)
+  — milestone comparisons grouped around Bronze, Silver, Gold, and Diamond
+  gross-lifetime-revenue cohorts; individual figures have different study
+  dates and are correlations rather than guaranteed outcomes.
+- [How many wishlists should I have at launch?](https://howtomarketagame.com/2022/09/26/how-many-wishlists-should-i-have-when-i-launch-my-game/)
+  — June 2026 launch-wishlist and early Personal Calendar estimates.
+- [February 2026 Steam Next Fest benchmarks](https://howtomarketagame.com/2025/03/26/benchmarks-how-many-wishlists-can-i-get-from-steam-next-fest/)
+  — survey-based wishlist tiers, pre-festival totals, and velocity comparisons.
 
 These sources mix observation, survey data, case studies, and author opinion.
 Record which kind supports a recommendation rather than presenting every
@@ -79,6 +90,11 @@ heuristic as settled fact.
 
 - [Graphical assets overview](https://partner.steamgames.com/doc/store/assets)
 - [Graphical asset rules](https://partner.steamgames.com/doc/store/assets/rules)
+- [Steam Tags](https://partner.steamgames.com/doc/store/tags)
+  — tag count, ordering and weighting, Tag Wizard similarity preview, top-20
+  browse and recommendation influence, community tags, and demo inheritance.
+- [Marketing Features and Tools](https://partner.steamgames.com/doc/marketing/tools)
+  — describes tag-based recommendations to players of similar games.
 - [Demos](https://partner.steamgames.com/doc/store/application/demos)
 - [Wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
 - [Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
@@ -96,6 +112,14 @@ heuristic as settled fact.
 - [Store and Platform Traffic Reporting](https://partner.steamgames.com/doc/marketing/traffic_reporting)
   — identifies the Steamworks traffic-breakdown reports used to measure store
   and platform impressions, visits, and click-through rate.
+- [UTM Analytics](https://partner.steamgames.com/doc/marketing/utm_analytics)
+  — external campaign-link requirements and attributed visits, wishlists,
+  purchases, and activations.
+- [Curators and Curator Connect](https://partner.steamgames.com/doc/marketing/curators)
+- [Steam Keys](https://partner.steamgames.com/doc/features/keys)
+- [Steam Playtest](https://partner.steamgames.com/doc/features/playtest)
+  — official alternatives and controls for creator access, press copies, and
+  external testing.
 - [Localization and Languages](https://partner.steamgames.com/doc/store/localization)
   — distinguishes store-page translation from in-game language support, says
   Steam language visibility is based on in-game settings, and recommends using

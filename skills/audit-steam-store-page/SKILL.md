@@ -46,7 +46,9 @@ telemetry boilerplate does not permit agent-written store-page marketing copy.
    screenshots, short description, tags, then the detailed page.
 5. Read [references/audit-checklist.md](references/audit-checklist.md) for the
    full checklist.
-6. Report findings as `blocker`, `high impact`, `improvement`, or `verified`.
+6. Use `optimize-steam-tags` when the task requires an ordered tag proposal,
+   comparable-game matrix, or diagnosis of the similar-games neighborhood.
+7. Report findings as `blocker`, `high impact`, `improvement`, or `verified`.
    Give evidence and the desired outcome, but do not supply replacement copy or
    generated art.
 

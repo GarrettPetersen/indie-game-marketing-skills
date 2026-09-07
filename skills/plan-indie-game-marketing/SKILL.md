@@ -8,6 +8,18 @@ description: Plan and maintain an evidence-based marketing path for a small Stea
 Treat marketing as part of product design. Identify the player, genre, visual
 promise, and proof required to sell the game before expanding production.
 
+## Default release model
+
+This playbook is for a premium game launched as a substantially finished
+product. Do not recommend Early Access or free-to-play as routine ways to get
+the game out sooner, build an audience, or compensate for weak positioning.
+Both models create different product, operations, retention, monetization, and
+community obligations from the premium-release path described here.
+
+If a developer explicitly wants Early Access or free-to-play, treat that as a
+change of business model requiring its own evidence and plan; do not quietly
+blend it into this workflow. Otherwise, plan for a paid full release.
+
 ## Human-authorship invariant
 
 Never draft, rewrite, or "polish" original audience-facing marketing text. This
@@ -77,6 +89,8 @@ exercise, but record the commercial consequences of earlier choices honestly.
   ladder, read [references/pricing.md](references/pricing.md).
 - From vertical slice through the coming-soon page, demo, and Next Fest, read
   [references/store-demo-next-fest.md](references/store-demo-next-fest.md).
+- When selecting, ordering, or diagnosing Steam tags and their similar-game
+  neighborhood, use `optimize-steam-tags`.
 - When selecting languages, internationalizing the game, translating public
   pages, or checking Steam language claims, read
   [references/early-localization.md](references/early-localization.md).
@@ -93,6 +107,9 @@ exercise, but record the commercial consequences of earlier choices honestly.
   [references/steam-launch-visibility.md](references/steam-launch-visibility.md).
 - For release readiness and the period after launch, read
   [references/launch-and-postlaunch.md](references/launch-and-postlaunch.md).
+- When the developer asks whether their wishlists, demo engagement, festival
+  result, launch conversion, or other marketing performance is good, read
+  [references/performance-benchmarks.md](references/performance-benchmarks.md).
 
 Read only the references relevant to the current stage.
 
@@ -104,7 +121,9 @@ Read only the references relevant to the current stage.
 3. Reserve the project's finite marketing beats, then build backward from dated
    external events with explicit internal buffers.
 4. Turn each marketing promise into evidence the build can actually show.
-5. Put incomplete prerequisites ahead of promotional activity.
+5. Put incomplete prerequisites ahead of promotional activity. In particular,
+   do not use Steam Next Fest as a beta test for a substantially unfinished
+   game or as pressure to finish the core experience during the event.
 6. Give the developer the smallest useful set of next actions, normally one to
    three, with an owner and due date.
 7. Update the plan when reality changes; do not preserve a stale launch date or

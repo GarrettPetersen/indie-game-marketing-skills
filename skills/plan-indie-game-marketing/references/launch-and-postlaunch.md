@@ -44,8 +44,11 @@ Verify before launch:
 - analytics or Steam reports required to judge the launch; and
 - every scheduled external action and its owner.
 
-Do not solicit reviews from key recipients as though they were purchasers, and
-do not pressure testers, friends, or creators for positive reviews.
+Do not incentivize or coordinate Steam reviews, ask for them inside the game,
+or pressure testers, friends, key recipients, or creators for reviews. A press
+or creator key may be supplied for an independent review, but not in exchange
+for a positive result. Do not argue with negative reviewers; respond only when
+a short factual clarification or resolved defect genuinely helps customers.
 
 ## After launch
 
@@ -65,3 +68,4 @@ lessons, reusable contacts, source files, and audience for the next game.
 
 - [How To Market Your Indie Game: A 10 Step Plan](https://howtomarketagame.com/2021/07/12/how-to-market-your-indie-game-a-10-step-plan/)
 - [Steamworks documentation](https://partner.steamgames.com/doc/home)
+- [Steamworks: User Reviews](https://partner.steamgames.com/doc/store/reviews)
