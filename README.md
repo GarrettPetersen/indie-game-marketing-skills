@@ -24,7 +24,10 @@ The lifecycle planner also covers base and regional pricing, early game and
 store-page localization, Steam's Personal Calendar and launch visibility, an
 official game site with a downloadable press kit, an itch.io demo, and a
 browser playtest build whose optional diagnostics feed a privacy-conscious
-incident database.
+incident database. Its social and community workflow maintains concrete,
+dated distribution opportunities—such as named Discord showcase channels,
+Reddit events, and recurring social pitches—alongside platform strategy and
+measurement.
 
 ## Install the skills
 

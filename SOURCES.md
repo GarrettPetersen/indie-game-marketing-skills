@@ -1,6 +1,6 @@
 # Source ledger
 
-Last reviewed: 2026-09-06
+Last reviewed: 2026-09-07
 
 This repository summarizes and operationalizes the sources below. It does not
 reproduce their wording or substitute for their complete work.
@@ -163,6 +163,27 @@ so priority languages can be present at page launch, then routes high-impact
 strings to native editors as resources allow. This is a deliberate exception
 to the no-AI-copy rule: translation may preserve existing meaning but may not
 invent marketing claims or a locale-specific campaign.
+
+## Social and community distribution
+
+- [Indie Game Joe: How to pitch your game to me](https://www.reddit.com/r/IndieDev/comments/1umjof3/how_to_pitch_your_game_to_me_indie_game_joe/)
+  — Joe's first-party direction that his Discord's `show off your game`
+  channel is his preferred game-discovery route.
+- [Indie Game Joe public Discord listing](https://discord.com/servers/indie-game-joe-939249783573479464)
+  — current public server identity, description, and membership context.
+- [r/Games Indie Sunday Hub, June 14, 2026](https://www.reddit.com/r/Games/comments/1u5au1n/indie_sunday_hub_june_14_2026/)
+  — current example of the event's developer-only rule, video requirement,
+  post format, no-giveaway rule, and 60-day cooldown. Recheck the current
+  weekly hub because subreddit rules can change.
+- [PitchYaGame](https://pitchyagame.com/)
+  — official round dates and participation rules for the recurring social
+  pitch event.
+
+Named community channels, invites, event schedules, subreddit rules, and
+posting cooldowns are time-sensitive. The skill stores them as a dated
+opportunity register and requires same-day verification instead of treating
+them as permanent platform facts. Individual wishlist spikes reported after a
+curator feature are project case evidence, not guaranteed outcomes.
 
 ## Additional pricing perspectives
 
