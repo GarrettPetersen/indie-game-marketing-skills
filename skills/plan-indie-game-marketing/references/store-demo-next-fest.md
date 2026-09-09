@@ -9,6 +9,9 @@ can technically be approved. Before publishing, require:
 - a stable art direction;
 - human-made capsule art that remains readable at small sizes;
 - authentic gameplay footage showing the game quickly;
+- a deliberately ordered, gameplay-first initial trailer whose actual
+  Steam-generated six-second microtrailer has been inspected muted, looping,
+  and at hover-preview size;
 - varied, current screenshots that communicate play rather than menus alone;
 - human-authored descriptions and calls to action;
 - machine-localized versions of the exact human-authored source page in the
@@ -122,7 +125,9 @@ as higher risk rather than as the default.
 Build backward from press preview, trailer pulls, store/build review, and event
 start. Add several business days for rejection and resubmission. Enter with a
 stable demo, current first trailer, accurate tags, tested install flow, and a
-plan for support and measurement during the event.
+plan for support and measurement during the event. Recheck the actual generated
+microtrailer after the final first-trailer upload or reorder; Steam samples six
+one-second clips from that video and does not provide direct customization.
 
 Do not launch immediately after Next Fest. Preserve a meaningful post-festival
 runway to absorb feedback, repair defects, follow up with creators and press,
@@ -138,6 +143,7 @@ festival's audience.
 - [Steamworks: Wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
 - [Steamworks: Localization and Languages](https://partner.steamgames.com/doc/store/localization)
 - [Steamworks: Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
+- [Steamworks: Trailers and microtrailers](https://partner.steamgames.com/doc/store/trailer)
 - [HTMAG: When should I post my Steam coming-soon page?](https://howtomarketagame.com/2025/03/10/when-should-i-post-my-steam-coming-soon-page/)
 - [HTMAG: Promote before Steam Next Fest](https://howtomarketagame.com/2024/11/13/how-do-you-promote-a-game-before-steam-next-fest/)
 - [HTMAG: February 2026 Next Fest analysis](https://howtomarketagame.com/2026/04/13/making-sense-of-the-february-2026-steam-next-fest/)

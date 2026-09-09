@@ -30,6 +30,12 @@
 - The opening seconds show a legible core action or fantasy.
 - The trailer shows progression, variety, stakes, and payoff without promising
   absent features.
+- The first visible trailer is deliberately ordered because Steam derives the
+  store's six-second microtrailer from it.
+- The actual Steam-generated microtrailer has been inspected muted, looping,
+  and at hover-preview size after the latest trailer upload or reorder. It has
+  no sampled black frames, logos, loading screens, unreadable text or modals,
+  obsolete UI, incoherent fragments, or incompetent play.
 - See `review-game-trailer` for a shot-level audit.
 
 ## Screenshots
@@ -98,6 +104,7 @@
 
 - [Steamworks graphical assets](https://partner.steamgames.com/doc/store/assets)
 - [Steamworks graphical asset rules](https://partner.steamgames.com/doc/store/assets/rules)
+- [Steamworks trailers and microtrailers](https://partner.steamgames.com/doc/store/trailer)
 - [Steamworks demos](https://partner.steamgames.com/doc/store/application/demos)
 - [Steamworks wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
 - [Steamworks localization and languages](https://partner.steamgames.com/doc/store/localization)

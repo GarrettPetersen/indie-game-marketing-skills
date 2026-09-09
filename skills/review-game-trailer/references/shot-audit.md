@@ -7,8 +7,28 @@
   or slow text.
 - Make the primary genre and player action understandable without relying on
   narration.
-- Treat the first trailer as a source for Steam's cropped and abbreviated
-  presentations; verify current Steam behavior rather than assuming it.
+
+## Steam microtrailer
+
+- Steam generates a six-second looping microtrailer from the first visible
+  video on the store page by stitching together six one-second samples from
+  different points in that video. It appears in quick-view surfaces such as
+  category hubs, event and sale pages, and some homepage placements.
+- Steam does not let the developer customize the microtrailer directly. The
+  practical controls are the content of the source trailer and which trailer
+  is ordered first.
+- After Steam finishes processing a new first trailer, or after changing
+  trailer order, inspect the actual generated microtrailer. Repeat the check
+  before a major festival, sale, demo launch, or game launch rather than
+  assuming a good full trailer produces a good six-second sample.
+- Review it muted, looping, and at the small size where shoppers encounter it.
+  It should still communicate the genre and core play through readable motion
+  and distinct gameplay. Flag sampled black frames, logos, title cards,
+  loading screens, modal flashes, obsolete UI, repeated-looking shots,
+  incompetent play, or one-second fragments whose actions cannot be parsed.
+- If the result is weak, revise or reorder the truthful gameplay-first source
+  trailer, let Steam regenerate it, and check again. Do not claim that a local
+  approximation is the generated Steam result.
 
 ## Footage integrity
 
@@ -64,6 +84,8 @@
   overlay boundary.
 - Confirm no source segment is duplicated unintentionally.
 - Confirm every visible feature exists in the advertised build.
+- Confirm the first visible Steam trailer's generated microtrailer was checked
+  after the latest upload or reorder.
 - Verify resolution, aspect ratio, frame rate, codecs, duration, channel layout,
   audio peaks, and platform file-size limits.
 
@@ -72,4 +94,4 @@
 - [BiteMe Games Steam-page guide](https://www.youtube.com/watch?v=cYvV_RLwKJ8)
 - [How To Market A Game Steam-page checklist](https://howtomarketagame.com/wp-content/uploads/2020/03/SteamPageChecklistv1.pdf)
 - [Steamworks graphical assets](https://partner.steamgames.com/doc/store/assets)
-
+- [Steamworks trailers and microtrailers](https://partner.steamgames.com/doc/store/trailer)
