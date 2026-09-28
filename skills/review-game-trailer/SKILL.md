@@ -11,11 +11,19 @@ with compelling authentic gameplay, the build may not be ready to market.
 
 ## Human-authorship invariant
 
-Never draft, rewrite, translate, or polish voiceover, title cards, captions,
-video titles, descriptions, calls to action, or other audience-facing words.
-Ask the developer for exact text or exact recorded human narration and preserve
-it. Verbatim transcription and caption timing are allowed because the words
-originate with a human. Flag errors and ask the human to revise or rerecord.
+Never draft, rewrite, or polish original-language voiceover, title cards,
+captions, video titles, descriptions, calls to action, or other audience-facing
+words. Ask the developer for exact text or exact recorded human narration and
+preserve it. Verbatim transcription and caption timing are allowed because the
+words originate with a human. Flag errors and ask the human to revise or
+rerecord.
+
+Translation is an explicit exception: when the developer supplies or approves
+human-authored source copy and asks for localization, the agent may translate
+that copy into the requested languages. Preserve the source meaning, claims,
+tone, placeholders, and intended reading length; do not add new claims or
+silently rewrite the English source. The translated text should be treated as
+localized human-authored copy, not as permission to invent new public wording.
 
 Do not generate capsule art, key art, fake gameplay, or synthetic visual scenes
 to fill gaps. Use authentic current-build gameplay and properly licensed
