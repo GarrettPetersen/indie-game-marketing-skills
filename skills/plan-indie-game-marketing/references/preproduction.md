@@ -27,6 +27,36 @@ can use consistently. This is a one-time collision check, not a requirement to
 build a large studio brand or a substitute for legal advice when a real
 trademark risk appears.
 
+### Treat AI-asset disclosure as a fixed-cost decision
+
+Verify the current rules of every target storefront before deciding whether
+player-facing generative-AI assets require disclosure. When the first such
+asset triggers a public disclosure, model the possible loss of player trust and
+sales as a fixed commercial cost: the first asset incurs the disclosure risk,
+while every additional AI asset has zero incremental disclosure cost and may
+save production time and money. Generation, selection, cleanup, integration,
+rights review, and quality control can still have ordinary marginal costs.
+
+Use a barbell strategy rather than paying the disclosure cost for only a few
+assets:
+
+- Choose zero AI assets when the complete set of disclosable assets can
+  realistically be replaced with human-made, licensed, public-domain, or
+  procedural work. If only a handful exist, replacing all of them is usually
+  more valuable than replacing some while leaving the disclosure in place.
+- Choose extensive AI use when the game genuinely needs a volume of unique art
+  that cannot be afforded or produced procedurally. If it needs 10,000 such
+  pieces, using AI for all suitable pieces captures the production leverage;
+  commissioning an arbitrary fraction does not reduce the disclosure cost.
+- Do not recommend an expensive hybrid merely to appear less AI-made. Human
+  work may still be justified by quality, rights, authorship, or a specific
+  asset's importance, but it removes the disclosure penalty only when every
+  asset that would trigger the disclosure has been replaced.
+
+The existence and size of a sales penalty are game- and audience-dependent.
+Treat it as a risk to model and test, not as a universal percentage or a claim
+that additional AI assets are literally free to produce.
+
 ## 2. Choose the genre before production
 
 Research the current market rather than relying on the genres the developer
@@ -165,3 +195,4 @@ expensive to finish, change the design or stop before scaling production.
 - [BiteMe Games: Small games win big](https://www.youtube.com/watch?v=8Kr5TruT-YU)
 - [Steamworks: User Reviews](https://partner.steamgames.com/doc/store/reviews)
 - [Steamworks: Get user reviews](https://partner.steamgames.com/doc/store/getreviews)
+- [Steamworks: Content Survey](https://partner.steamgames.com/doc/gettingstarted/contentsurvey)

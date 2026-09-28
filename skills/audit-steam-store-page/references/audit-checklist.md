@@ -21,8 +21,12 @@
   assigned asset.
 - Confirm library hero art is artwork-only and the transparent library logo is
   separate where current Steam rules require that.
-- Use only human-made or human-commissioned art. Do not recommend generative
-  imagery as a cheaper substitute.
+- Verify that every required generative-AI disclosure is accurate and that the
+  asset strategy is coherent. If only a handful of AI assets trigger the
+  disclosure, flag complete replacement as a high-leverage option. If the game
+  requires a very large volume of unique generated art, do not recommend
+  replacing an arbitrary fraction with commissioned work: additional AI assets
+  have zero incremental disclosure cost once the disclosure is unavoidable.
 
 ## Trailer
 

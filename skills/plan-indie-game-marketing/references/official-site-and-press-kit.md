@@ -52,8 +52,9 @@ creator can obtain only what they need. Include, when available:
 - high-resolution screenshots from the current build without invented UI;
 - public trailer embeds plus downloadable high-quality video files;
 - transparent game logo and developer or publisher logo;
-- human-made capsule and key art, including useful separated layers when the
-  artist's license permits redistribution;
+- capsule and key art consistent with the project's chosen AI-asset strategy,
+  including useful separated layers when the applicable license permits
+  redistribution;
 - portraits, character art, or other approved promotional assets;
 - team biography and credits supplied by the developer;
 - links to the store, demo, website, social profiles, and notable coverage; and
@@ -70,9 +71,13 @@ stretch or silently change aspect ratios. Retain original-resolution downloads,
 use predictable filenames, include language codes on localized variants, and
 version ZIPs when their contents change materially.
 
-Capsule art and key art must be made by the developer or a human artist. Agents
-may validate dimensions, crop, resize, export, compress, package, and compose
-supplied human-made layers, but may not generate the artwork.
+Capsule art and key art must be supplied by the developer and carry any
+required generative-AI disclosure. Agents may validate dimensions, crop,
+resize, export, compress, package, and compose supplied, properly licensed
+layers, but may not generate the artwork. Audit a mixed asset set against the
+fixed-cost disclosure strategy in [preproduction.md](preproduction.md): a few
+AI assets are candidates for complete replacement, while an AI-heavy project
+does not reduce its disclosure cost by commissioning an arbitrary subset.
 
 ## Release and maintenance gate
 

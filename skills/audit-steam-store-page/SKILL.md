@@ -23,9 +23,13 @@ idea, validate meaning and formatting, record that the translation still needs
 human review, and retain later native-speaker corrections. Machine translation
 is an exception for localization, not permission to originate copy.
 
-Never generate capsule art or key art. Require human-made or human-commissioned
-art. The agent may audit, crop, resize, export, or mechanically assemble
-supplied human-made assets without changing their aspect ratio.
+Never generate capsule art or key art. Require the developer to supply the
+final art and disclose any player-facing generative-AI use accurately. The
+agent may audit, crop, resize, export, or mechanically assemble supplied,
+properly licensed assets without changing their aspect ratio. When only a few
+AI assets trigger the same disclosure as an AI-heavy production, flag complete
+replacement or extensive use as the coherent alternatives; do not recommend an
+expensive partial replacement that leaves the disclosure in place.
 
 Internal audit findings, questions, severity labels, and art briefs are not
 public marketing copy and may be written by the agent.

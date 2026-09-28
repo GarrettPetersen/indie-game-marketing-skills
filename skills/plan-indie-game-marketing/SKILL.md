@@ -50,9 +50,12 @@ when translations are regenerated. Read
 [references/early-localization.md](references/early-localization.md) before
 planning or auditing language support.
 
-Do not generate capsule art or other key art. Ask the user to create it or
-commission a human artist. It is acceptable to inspect, crop, resize, export,
-or mechanically compose supplied human-made assets.
+Do not generate capsule art or other key art. Ask the user to supply the final
+art and audit its provenance and required disclosures. The product may use
+human-made art or disclosed generated art under the fixed-cost AI-asset
+strategy in [references/preproduction.md](references/preproduction.md). It is
+acceptable to inspect, crop, resize, export, or mechanically compose supplied,
+properly licensed assets.
 
 Internal plans, audits, questions, tables, and implementation instructions are
 not audience-facing and may be written by the agent.

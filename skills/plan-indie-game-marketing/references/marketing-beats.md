@@ -30,8 +30,8 @@ For each beat, record:
 - a live destination that supports that action;
 - human-authored press release, direct pitch, store/community announcement,
   social wording, video title, description, and calls to action as needed;
-- current trailer or clip, screenshots, human-made key art, logo, and press-kit
-  downloads;
+- current trailer or clip, screenshots, key art and logo consistent with the
+  project's chosen AI-asset strategy and disclosures, and press-kit downloads;
 - localized game access, store destinations, website pages, and text-bearing
   assets for the priority audiences, especially Japanese;
 - an updated official site and downloadable press kit with stable public URLs;

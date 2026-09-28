@@ -7,7 +7,8 @@ can technically be approved. Before publishing, require:
 
 - a settled primary genre and subgenre;
 - a stable art direction;
-- human-made capsule art that remains readable at small sizes;
+- capsule art consistent with the project's chosen AI-asset strategy, with any
+  required disclosure, that remains readable at small sizes;
 - authentic gameplay footage showing the game quickly;
 - a deliberately ordered, gameplay-first initial trailer whose actual
   Steam-generated six-second microtrailer has been inspected muted, looping,
@@ -81,10 +82,11 @@ package the entry point and assets in the form itch.io currently requires, use
 relative paths, and test the real embedded and fullscreen deployment rather
 than only a local server.
 
-The page still requires exact human-written public copy and human-made cover
-art or screenshots. Give it an accurate build label, a working route to the
-Steam wishlist or other primary action, support information, and any controls
-or browser limitations the player needs to know.
+The page still requires exact human-written public copy and supplied cover art
+or screenshots consistent with the project's chosen AI-asset strategy and
+disclosures. Give it an accurate build label, a working route to the Steam
+wishlist or other primary action, support information, and any controls or
+browser limitations the player needs to know.
 
 A quiet restricted test does not spend the public demo-launch beat. A public,
 announced itch.io demo does. Record what was available, to whom, and when; do
