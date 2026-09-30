@@ -1,0 +1,4 @@
+interface:
+  display_name: "Develop Pixel Art Games"
+  short_description: "Build and verify crisp pixel-art rendering"
+  default_prompt: "Use $develop-pixel-art-games to audit my game rendering, fonts, scaling, and pixel-art asset pipeline."

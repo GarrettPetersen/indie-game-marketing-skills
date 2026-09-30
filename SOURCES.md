@@ -1,6 +1,6 @@
 # Source ledger
 
-Last reviewed: 2026-09-07
+Last reviewed: 2026-09-30
 
 This repository summarizes and operationalizes the sources below. It does not
 reproduce their wording or substitute for their complete work.
@@ -152,6 +152,15 @@ anecdotal.
 
 ## Firsthand project evidence
 
+- Marque & Reprisal browser and native desktop release work, September 2026
+  — project evidence that pixel-font source geometry is not enough to guarantee
+  identical output across canvas, Electron, DirectWrite, CoreText, and worker
+  renderers. A Windows-only filled glyph exposed restored TrueType hinting and
+  grayscale behavior; deterministic font transformation, glyph-topology tests,
+  actual fallback detection, target-native checks, and a strict separation
+  between the logical game grid and physical window scaling prevented the same
+  class of regression. This is production case evidence, not a claim that every
+  pixel font should have hinting removed.
 - [Indie Freaks coverage of Marque & Reprisal](https://x.com/i/status/2082949368362238267)
   — project case evidence that launching with Japanese game and store-page
   localization can make an indie game legible to large Japanese discovery

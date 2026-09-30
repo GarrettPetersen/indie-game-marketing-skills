@@ -1,6 +1,6 @@
-# Indie Game Marketing Skills
+# Indie Game Skills
 
-Agent skills for planning and auditing the marketing of a small, primarily
+Agent skills for planning, developing, and auditing a small, primarily
 Steam-distributed indie game from concept selection through post-launch.
 
 The repository is intentionally opinionated. It treats genre, scope, visual
@@ -19,6 +19,9 @@ rather than allowed to pass quietly.
   players of the right similar games.
 - `review-game-trailer`: plan or review gameplay trailers and map their visual
   promises back to the build.
+- `develop-pixel-art-games`: design, implement, audit, and test the logical
+  pixel grid, asset pipeline, effects, UI scaling, pixel fonts, accessibility
+  mode, and cross-platform presentation of a pixel-art game.
 
 The lifecycle planner also covers base and regional pricing, early game and
 store-page localization, Steam's Personal Calendar and launch visibility, an
@@ -51,6 +54,7 @@ ln -s /absolute/path/to/indie-game-marketing-skills/skills/plan-indie-game-marke
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/audit-steam-store-page .agents/skills/audit-steam-store-page
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/optimize-steam-tags .agents/skills/optimize-steam-tags
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/review-game-trailer .agents/skills/review-game-trailer
+ln -s /absolute/path/to/indie-game-marketing-skills/skills/develop-pixel-art-games .agents/skills/develop-pixel-art-games
 ```
 
 This is the preferred scope when the skills should apply only while working on
@@ -70,6 +74,7 @@ ln -s /absolute/path/to/indie-game-marketing-skills/skills/plan-indie-game-marke
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/audit-steam-store-page ~/.codex/skills/audit-steam-store-page
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/optimize-steam-tags ~/.codex/skills/optimize-steam-tags
 ln -s /absolute/path/to/indie-game-marketing-skills/skills/review-game-trailer ~/.codex/skills/review-game-trailer
+ln -s /absolute/path/to/indie-game-marketing-skills/skills/develop-pixel-art-games ~/.codex/skills/develop-pixel-art-games
 ```
 
 Do not install the same skill at both scopes. Project-local skills take context
@@ -95,7 +100,10 @@ Mention a skill explicitly when you want a particular workflow:
 - `$optimize-steam-tags` for tag ordering, comparable-game research, Tag Wizard
   diagnosis, or fixing the public similar-game neighborhood; and
 - `$review-game-trailer` for a trailer concept, shot plan, timecoded review, or
-  revision plan using authentic gameplay.
+  revision plan using authentic gameplay; and
+- `$develop-pixel-art-games` for logical-grid architecture, mixel audits,
+  sprite and effect scaling, pixel-font failures, cross-platform rasterization,
+  accessibility-mode separation, or pixel-presentation release checks.
 
 Codex may also select them automatically when a request clearly matches their
 descriptions. Give it the game repository, current stage, intended date, known
