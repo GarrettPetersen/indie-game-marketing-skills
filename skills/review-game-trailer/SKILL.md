@@ -59,11 +59,22 @@ Create a visual beat sheet before a timeline. Each beat must have:
 Do not cover an implementation gap with public copy. Put the missing proof back
 into the vertical-slice or capture backlog.
 
+Before recording each shot, wait until its required assets are loaded, decoded,
+uploaded to the renderer, and fully visible. Include scenery such as coral and
+terrain details, ships, city art, portraits, fonts, and assets needed along the
+planned camera movement. A generic game-ready flag or fixed delay is not proof.
+Use unrecorded warm-up renders to confirm the intended asset set is complete
+across consecutive frames, keeping the gameplay clock paused so staged actions
+do not advance. Bound the wait and fail an unready capture rather than recording
+placeholders or asset pop-in. This applies to archival builds as well.
+
 ## Review the rendered video
 
 Inspect the actual master frame by frame around every cut and overlay boundary,
 with sound. Check native dimensions, aspect ratio, frame rate, codecs, duration,
 audio peaks, silence, caption boundaries, and delivery size.
+Inspect each shot's opening frames and camera/scene changes for assets appearing
+late; reject and recapture shots with loading pop-in.
 
 Return a timecoded table with issue, evidence, impact, and edit instruction.
 Do not provide replacement public wording. Distinguish a bad source capture
