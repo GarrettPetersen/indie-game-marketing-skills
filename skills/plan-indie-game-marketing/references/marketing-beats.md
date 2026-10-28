@@ -37,6 +37,9 @@ For each beat, record:
 - an updated official site and downloadable press kit with stable public URLs;
 - playable build, demo, or keys when the beat depends on access;
 - target press and creators chosen for demonstrated genre fit;
+- trailer-hosting channels, a downloadable video package, and any agreed
+  premiere window with an explicit Steam-storefront exception; read
+  [trailer-distribution.md](trailer-distribution.md);
 - platform events, notifications, festivals, and storefront updates that can
   reinforce the same moment;
 - the release-date and Personal Calendar runway, plus any evidence-based request

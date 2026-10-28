@@ -152,6 +152,12 @@ anecdotal.
 
 ## Firsthand project evidence
 
+- [Indie Games Hub's Marque & Reprisal release-date trailer](https://www.youtube.com/watch?v=kn5AMfR7tXY)
+  — confirmed October 27, 2026, with about 5.2k views roughly ten hours after
+  posting and a Steam link. Evidence for non-exclusive finished-trailer
+  distribution, not a review or measured wishlist attribution. Garrett's
+  experience that media exclusives usually exclude Steam is recorded as
+  practitioner guidance requiring an explicit agreement, not an IGN rule.
 - Marque & Reprisal browser and native desktop release work, September 2026
   — project evidence that pixel-font source geometry is not enough to guarantee
   identical output across canvas, Electron, DirectWrite, CoreText, and worker
@@ -175,6 +181,14 @@ invent marketing claims or a locale-specific campaign.
 
 ## Social and community distribution
 
+- [Trailer distribution register](skills/plan-indie-game-marketing/references/trailer-distribution.md)
+  — dated starting contacts and source links for IGN/GameTrailers, Indie Games
+  Hub, Indie Games Trailers, Indie Games Developer and Gematsu, with contact
+  confidence and exclusivity limits kept beside each route.
+- [HTMAG: How to get covered by IGN](https://howtomarketagame.com/2022/11/10/how-to-get-covered-by-ign/)
+  — practitioner cases for pitching distinct trailer beats, negotiating an
+  exclusive window and distributing to other outlets afterward; not a current
+  first-party submission policy or a prerequisite to go viral before pitching.
 - [Indie Game Joe: How to pitch your game to me](https://www.reddit.com/r/IndieDev/comments/1umjof3/how_to_pitch_your_game_to_me_indie_game_joe/)
   — Joe's first-party direction that his Discord's `show off your game`
   channel is his preferred game-discovery route.

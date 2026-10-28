@@ -45,6 +45,12 @@ For preproduction, read
 For an existing cut, read
 [references/shot-audit.md](references/shot-audit.md).
 
+When the cut is ready for distribution, use `plan-indie-game-marketing` and its
+`references/trailer-distribution.md` for trailer-hosting channels, submission
+packages and premiere terms. Treat this as separate from asking creators to
+play the game. Preserve a gameplay trailer on Steam; negotiate a written
+storefront exception to any media exclusive.
+
 ## Plan from beats to footage
 
 Create a visual beat sheet before a timeline. Each beat must have:

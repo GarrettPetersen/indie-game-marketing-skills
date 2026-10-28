@@ -1,6 +1,6 @@
 ---
 name: plan-indie-game-marketing
-description: Plan and maintain an evidence-based marketing path for a small Steam game from genre selection and trailer-first vertical slice through pricing, early localization, official website, press kit, itch.io or browser playtest, Steam page, demo, telemetry, social and community distribution, festivals, creator outreach, launch, and post-launch. Use for whole-project roadmaps, next-action decisions, milestone sequencing, and marketing calendars; use a focused audit skill for a standalone store-page or trailer review.
+description: Plan and maintain an evidence-based marketing path for a small Steam game from genre selection and trailer-first vertical slice through pricing, early localization, official website, press kit, itch.io or browser playtest, Steam page, demo, telemetry, social and community distribution, festivals, creator outreach, trailer hosting and exclusivity, launch, and post-launch. Use for whole-project roadmaps, next-action decisions, milestone sequencing, and marketing calendars; use a focused audit skill for a standalone store-page or trailer review.
 ---
 
 # Plan Indie Game Marketing
@@ -108,6 +108,9 @@ exercise, but record the commercial consequences of earlier choices honestly.
   [references/social-community-distribution.md](references/social-community-distribution.md).
 - For outside testing, festivals, press, or creators, read
   [references/playtesting-festivals-outreach.md](references/playtesting-festivals-outreach.md).
+- For sending finished trailers to hosting channels, selecting outlets, or
+  negotiating a premiere without losing the Steam-page trailer, read
+  [references/trailer-distribution.md](references/trailer-distribution.md).
 - When choosing or announcing a release date, preparing the launch push, or
   considering a request for Steam featuring, read
   [references/steam-launch-visibility.md](references/steam-launch-visibility.md).

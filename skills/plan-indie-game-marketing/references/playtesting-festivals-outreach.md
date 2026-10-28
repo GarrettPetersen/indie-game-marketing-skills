@@ -41,10 +41,56 @@ the application work.
 
 ## Creator and press research
 
+Finished-trailer hosting is a separate outreach lane from gameplay/review
+keys. For IGN, GameTrailers, Indie Games Hub and other starting contacts,
+submission materials, and exclusive versus non-exclusive scheduling, read
+[trailer-distribution.md](trailer-distribution.md). Keep a trailer on Steam
+and negotiate an explicit storefront exception rather than assume the word
+"exclusive" requires an empty store page.
+
 Research people who demonstrably cover comparable games, not broad gaming
 lists alone. Keep a source-backed contact table with public contact route,
 language, platform, audience size, recent activity, comparable title, fit
 reason, priority, verification date, outreach status, and follow-up.
+
+### Public contact research before YouTube reveals
+
+Check the creator's official website and linked social profiles for a published
+business contact before using YouTube's gated email reveal. Start with their
+own contact/about page, link hub, Twitch panels, and social bios. Use search
+engines to discover sources, but verify an address on a creator-controlled
+page or an explicitly authorized representative's site; never guess addresses
+or treat a same-name domain or contact database as proof of ownership.
+
+Record the exact source URL, verification date, contact preference, and whether
+an inbox belongs directly to the creator or to a shared agency/organization.
+Respect stated submission routes and exclusions. If no email is published,
+record an official DM or submission route without claiming that messages are
+accepted merely because a button exists. Research does not authorize joining
+communities, submitting forms, or sending messages.
+
+Use YouTube's reveal only when those public sources do not provide a suitable
+route. If a reveal quota is reached, stop reveal attempts; do not rotate
+accounts or work around the quota. Separately published public contacts may
+still be researched. Check the outreach ledger and prior correspondence for
+duplicates, bounces and opt-outs before allocating a key or creating a draft.
+
+### Multi-game eligibility gate
+
+Before shortlisting a creator, reserving a key, or preparing a draft, verify
+that they regularly play or cover more than one distinct game. Save
+creator-owned evidence for at least two games and check that this reflects
+their recent content, not a lone variety upload years ago. Different modes,
+mods, expansions, or remasters of one game do not establish variety coverage.
+If the evidence is missing, leave the prospect unqualified rather than assume.
+
+Exclude single-game specialists even when their audience overlaps the target
+genre or history theme. Audience size and a "moonshot" label do not override
+this gate. The exception is a product specifically for the game or platform
+they cover: a Catan-only creator may fit a Catan platform, not an unrelated
+strategy game. Apply this check to existing unsent drafts as well as new
+prospects; flag failures before sending rather than silently deleting drafts
+or reallocating their keys.
 
 The developer supplies the exact outreach email, subject line, and follow-up.
 The agent may insert only verified factual fields into that human-approved

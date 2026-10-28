@@ -32,6 +32,11 @@ dated distribution opportunities—such as named Discord showcase channels,
 Reddit events, and recurring social pitches—alongside platform strategy and
 measurement.
 
+The planner also covers sending finished trailers to trailer-hosting outlets
+such as IGN, GameTrailers and Indie Games Hub, including a dated contact list,
+non-exclusive reposting, and negotiated premieres that preserve the Steam-page
+trailer.
+
 ## Install the skills
 
 Clone this repository somewhere that will remain on the machine:
