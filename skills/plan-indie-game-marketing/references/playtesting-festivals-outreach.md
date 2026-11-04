@@ -2,11 +2,19 @@
 
 ## Playtesting
 
-Treat playtesting as product development, not promotion. Recruit players who
-could plausibly enjoy the genre, while also testing with people unfamiliar with
-the project. Observe where they hesitate, misunderstand, quit, repeat a session,
-or voluntarily return. Separate crashes and defects from comprehension,
-balance, taste, and feature requests.
+Treat playtesting as product development and an opportunity to build an early
+community, not as a substitute for a polished demo launch. Run a public
+playtest well before that launch, recruiting players who could plausibly enjoy
+the genre while also testing with people unfamiliar with the project. Observe
+where they hesitate, misunderstand, quit, repeat a session, or voluntarily
+return. Separate crashes and defects from comprehension, balance, taste, and
+feature requests. Share improvements and make it easy for enthusiastic testers
+to follow, wishlist, and talk about the game.
+
+Read [public-playtest-and-mailing-list.md](public-playtest-and-mailing-list.md)
+for Steam access, a private key-distribution system, and separately consented
+launch/future-game emails. Keep early testing separate from the scarce demo
+notification and Next Fest opening push.
 
 Maintain a reproducible report path with build identifier, platform, input,
 steps, expected result, observed result, logs, and save when relevant. Look for

@@ -101,6 +101,9 @@ exercise, but record the commercial consequences of earlier choices honestly.
   [references/official-site-and-press-kit.md](references/official-site-and-press-kit.md).
 - For a browser playtest and opt-in diagnostics, read
   [references/web-playtest-telemetry.md](references/web-playtest-telemetry.md).
+- For early public playtests, Steam access versus key distribution, and an
+  opt-in mailing list, read
+  [references/public-playtest-and-mailing-list.md](references/public-playtest-and-mailing-list.md).
 - Whenever choosing, combining, or preparing public beats, read
   [references/marketing-beats.md](references/marketing-beats.md).
 - When choosing social platforms, recurring community opportunities, named
@@ -132,7 +135,10 @@ Read only the references relevant to the current stage.
 4. Turn each marketing promise into evidence the build can actually show.
 5. Put incomplete prerequisites ahead of promotional activity. In particular,
    do not use Steam Next Fest as a beta test for a substantially unfinished
-   game or as pressure to finish the core experience during the event.
+   game or as pressure to finish the core experience during the event. Run a
+   public playtest well beforehand; reserve the polished Steam demo launch for
+   immediately before Next Fest and its wishlist notification for day one,
+   following the timing and exception checks in the demo reference.
 6. Give the developer the smallest useful set of next actions, normally one to
    three, with an owner and due date.
 7. Update the plan when reality changes; do not preserve a stale launch date or

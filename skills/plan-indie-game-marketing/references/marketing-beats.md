@@ -7,8 +7,9 @@ gone.
 
 ## Core beats
 
-Plan at least these separately unless there is a deliberate, evidence-backed
-reason to combine them:
+Plan these explicitly. The default sequence deliberately coordinates demo
+launch immediately before Next Fest and the demo notification on day one;
+keep the other beats separate unless there is a specific reason to combine:
 
 1. game announcement and coming-soon page;
 2. demo launch;
@@ -76,6 +77,13 @@ Likewise, give a release-date announcement its own evidence: a strong new
 trailer, polished build, clear date, and press package. Next Fest should have a
 tested demo and a surrounding push rather than being the first moment anyone
 outside the team sees the game.
+
+Do the rough-build learning in an earlier public playtest. Preserve the polished
+Steam demo launch and its one-time wishlist notification for the coordinated
+festival opening, not the first buggy build that passes Valve review. See
+[store-demo-next-fest.md](store-demo-next-fest.md) for the notification window,
+Press Preview tradeoff, and the distinction between a chosen momentum strategy
+and a guaranteed algorithm effect.
 
 The date reveal also starts a finite Steam launch runway. Publish the concrete
 date at least one month ahead and prefer roughly eight weeks when the build is

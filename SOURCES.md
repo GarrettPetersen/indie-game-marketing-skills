@@ -2,6 +2,9 @@
 
 Last reviewed: 2026-09-30
 
+Targeted update: 2026-11-04 (Steam Playtest access, demo notifications,
+Next Fest discovery, and CRTC email-consent guidance; not a full source re-audit).
+
 This repository summarizes and operationalizes the sources below. It does not
 reproduce their wording or substitute for their complete work.
 
@@ -96,8 +99,13 @@ heuristic as settled fact.
 - [Marketing Features and Tools](https://partner.steamgames.com/doc/marketing/tools)
   — describes tag-based recommendations to players of similar games.
 - [Demos](https://partner.steamgames.com/doc/store/application/demos)
+  — rechecked 2026-11-04: manual one-time demo notification within 14 days of
+  first release; disabling/re-enabling does not restart eligibility.
 - [Wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
 - [Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
+  — rechecked 2026-11-04: most opening exposure is randomized with explicit
+  exceptions, then festival behavior informs personalized recommendations;
+  public demo availability determines playable Press Preview access.
 - [User Reviews](https://partner.steamgames.com/doc/store/reviews)
 - [Get user reviews](https://partner.steamgames.com/doc/store/getreviews)
 - [Pricing](https://partner.steamgames.com/doc/store/pricing)
@@ -118,8 +126,9 @@ heuristic as settled fact.
 - [Curators and Curator Connect](https://partner.steamgames.com/doc/marketing/curators)
 - [Steam Keys](https://partner.steamgames.com/doc/features/keys)
 - [Steam Playtest](https://partner.steamgames.com/doc/features/playtest)
-  — official alternatives and controls for creator access, press copies, and
-  external testing.
+  — rechecked 2026-11-04: separate child app, limited/open store signups,
+  Standard Release Playtest keys, Playable access control, and destructive
+  reset; official alternatives and controls for external testing.
 - [Localization and Languages](https://partner.steamgames.com/doc/store/localization)
   — distinguishes store-page translation from in-game language support, says
   Steam language visibility is based on in-game settings, and recommends using
@@ -152,6 +161,12 @@ anecdotal.
 
 ## Firsthand project evidence
 
+- Developer retrospective, 2026-11-04: Marque & Reprisal's demo and wishlist
+  notification went out before the developer considered onboarding/stability
+  ready. This motivates the repository's revised operating default: an early
+  public playtest, polished demo launch immediately before Next Fest, and a
+  day-one notification. The intended algorithmic lift is an untested hypothesis,
+  not measured causation or a claim that all earlier demo launches perform worse.
 - [Indie Games Hub's Marque & Reprisal release-date trailer](https://www.youtube.com/watch?v=kn5AMfR7tXY)
   — confirmed October 27, 2026, with about 5.2k views roughly ten hours after
   posting and a Steam link. Evidence for non-exclusive finished-trailer
@@ -250,3 +265,14 @@ access and packaging behavior before distribution.
 Telemetry law and consent requirements vary by jurisdiction and data collected.
 The skill therefore requires explicit opt-in and data minimization but does not
 pretend to replace legal review.
+
+## Public playtest email lists
+
+- [CRTC: Canada's anti-spam legislation FAQ](https://crtc.gc.ca/eng/com500/faq500.htm)
+  — rechecked 2026-11-04: consent, sender identification, unsubscribe, proof of
+  consent, no pre-checked express-consent boxes, and respect for consent scope.
+
+Separate key delivery from optional launch/future-game marketing. The
+[public-playtest workflow](skills/plan-indie-game-marketing/references/public-playtest-and-mailing-list.md)
+records the small distribution system and private ledger required if the
+developer chooses owned-site keys instead of Steam's native signup route.

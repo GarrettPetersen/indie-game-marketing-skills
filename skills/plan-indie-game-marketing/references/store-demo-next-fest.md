@@ -61,10 +61,14 @@ separate demo pages, review timing, and the one-time wishlist notification.
 Treat notification timing as a deliberate launch asset, not a button to press
 automatically.
 
-Keep the demo launch as its own beat by default. Prepare a human-written press
-release and targeted pitch, a demo-specific trailer or strong clip, tested
-install and wishlist paths, platform/community announcements, creator access,
-and measurement before making it public.
+Keep the demo launch distinct from the game announcement, but coordinate it
+with Next Fest by default using the sequence below. Prepare a human-written
+press release and targeted pitch, a demo-specific trailer or strong clip,
+tested install and wishlist paths, platform/community announcements, creator
+access, and measurement before making it public. Use a clearly labelled
+playtest, not an early Steam demo release, to find onboarding and stability
+problems. Read [public-playtest-and-mailing-list.md](public-playtest-and-mailing-list.md)
+for early access, community building, and optional email-list growth.
 
 ## itch.io demo and browser build
 
@@ -116,13 +120,53 @@ the game, enjoy the core loop, and want to continue. Next Fest can reveal bugs
 and tuning needs, but it is too scarce and too public to serve as the first real
 test of whether the game works.
 
-Default for a first-time or operationally inexperienced developer: choose the
-later suitable Next Fest, release and test the demo beforehand, build an
-existing wishlist base, then use the festival as a culmination. A compressed
-announcement-demo-festival sequence can create momentum, but it depends on a
-strong game, strong media, an established audience or major external beat, and
-the ability to coordinate without shipping an untested demo. Label that route
-as higher risk rather than as the default.
+### Default sequence: early playtest, late demo, day-one notification
+
+This repository's operating strategy is:
+
+1. Announce the game and build a wishlist audience well before the festival.
+2. Run a public playtest weeks or months before the demo launch, with enough
+   time to fix problems and retest with new players. Use it to earn community
+   enthusiasm as well as feedback; do not promise that access alone builds hype.
+3. Finish and validate the demo in advance, including Steam review and private
+   fresh-account testing. Launch the polished public Steam demo immediately
+   before Next Fest, with a short operational buffer to verify the real public
+   download/install path. Do not leave build completion until that window.
+4. On the first day of Next Fest, after verifying the demo and event listing,
+   trigger Steam's one-time demo wishlist notification. Coordinate the opted-in
+   email list, creators, press, and community posts around the same opening push.
+   Obtain explicit authorization immediately before notifications or sends.
+
+The aim is to concentrate genuine play during the festival's opening days.
+**Evidence status:** this is a developer-chosen strategy and an algorithmic-lift
+hypothesis, not a Valve requirement or proven ranking formula. Valve documents
+randomized exposure in most locations during the first few days, with named
+lists and personalized segments as exceptions, followed by recommendations
+informed by festival user behavior. Do not equate email volume with ranking
+credit or guarantee visibility. Measure actual demo starts, engagement,
+wishlists, and traffic against the pre-event baseline.
+
+### Notification window and exceptions
+
+Steam's demo notification is manual, usable only once, within 14 days of the
+demo first becoming playable. Disabling and re-enabling the demo does not reset
+that window. Record the first release timestamp and the notification deadline
+in the calendar; recheck current rules and any notification cooldown before
+scheduling day one. Triggering the action is not a promise of immediate or
+universal delivery to every wishlister.
+
+An already-released demo may have spent this option. Do not plan a second
+notification, another App ID to evade the rule, or a fictitious first launch.
+Use an accurately labelled update and the remaining authorized channels.
+
+Press Preview is an explicit tradeoff: Valve currently says press can play a
+demo there if it is publicly live. A last-minute demo launch gives up that
+early public-demo access. If a specific preview or earlier festival justifies
+an earlier launch, record the exception, ensure day one still fits the actual
+notification window if that is the plan, and coordinate private preview access
+where appropriate. Check the edition's dates rather than assuming a fixed gap.
+Never sacrifice a working build to preserve timing; choose a later suitable
+Next Fest if readiness fails.
 
 Build backward from press preview, trailer pulls, store/build review, and event
 start. Add several business days for rejection and resubmission. Enter with a
@@ -142,6 +186,7 @@ festival's audience.
 ## Sources
 
 - [Steamworks: Demos](https://partner.steamgames.com/doc/store/application/demos)
+- [Steamworks: Steam Playtest](https://partner.steamgames.com/doc/features/playtest)
 - [Steamworks: Wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
 - [Steamworks: Localization and Languages](https://partner.steamgames.com/doc/store/localization)
 - [Steamworks: Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
